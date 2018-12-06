@@ -7,8 +7,8 @@ Code and Project description are Jupyter notebooks. Please use JUPYTER NOTEBOOK 
 
 Link to install Jupyter notebook: http://jupyter.org/install
 
-Project report - CarND-Vehicle-Detection_Report.ipynb
+Project report - Pipeline_Advanced_Lane_Lines_report.ipynb
 
-Code - CarND-Vehicle-Detection_Code.ipynb
+Code - Pipeline_Advanced_Lane_Lines_Code.ipynb
 
-Output Video - Vehicle_detection_tracking_final_output.mp4
+Output Video - project_output.mp4
